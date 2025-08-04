@@ -1,4 +1,4 @@
 {
-  "ABC123": {"days": 7, "start_date": "2025-07-05"},
-  "XYZ789": {"days": 30, "start_date": "2025-07-15"}
+  "KEY123": {"days": 30},
+  "ANOTHERKEY": {"days": 60}
 }
